@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input::placeholder {
+  color: #291334;
+  opacity: 0.5;
+}
